@@ -1,0 +1,20 @@
+Using pre-set license
+Built from '2022.3/respin/2022.3.62f2-4af31df585-v2' branch; Version is '2022.3.62f3 (96770f904ca7) revision 9860879'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'ko' Physical Memory: 16087 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/admin/Documents/GitHub/game1/Unity_GithubDesk
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58082
+Couldn't set project path to: C:/Users/admin/Documents/GitHub/game1/Unity_GithubDesk/C:/Users/admin/Documents/GitHub/game1/Unity_GithubDesk
+Exiting without the bug reporter. Application will terminate with return code 1
